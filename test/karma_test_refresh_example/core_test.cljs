@@ -4,6 +4,3 @@
 
 (deftest foobar
   (is (= 1 2)))
-
-(deftest foobar2
-  (is (= 2 3)))
